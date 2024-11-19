@@ -1,0 +1,27 @@
+.card-header{
+    background-color:darkgrey;
+    text-align: center;
+    color:darkblue;
+    font-size:35px;
+};
+
+.cardimg{
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    margin: 10px;
+
+}
+
+.card-body{
+    text-align: center;
+}
+
+button{
+    border-radius: 5px;
+    background-color:cadetblue;
+}
+
+body{
+    background-color:navy;
+}
